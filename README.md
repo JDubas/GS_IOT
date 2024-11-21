@@ -1,7 +1,11 @@
+
 # Projeto IoT: Controle Inteligente de Janelas para Economia de Energia
 
 Este projeto utiliza a placa **ESP32** e o serviço **Thinger.io** para criar um sistema inteligente de controle de janelas. O objetivo é otimizar o consumo de energia, reduzindo a dependência de ar-condicionado ao regular a temperatura interna de forma eficiente.
 
+
+### Video explicando o projeto:
+https://youtu.be/FPqf9qtWW0A
 ---
 
 ## 🎯 **Objetivo**

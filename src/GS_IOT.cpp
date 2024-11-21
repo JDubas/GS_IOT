@@ -49,7 +49,7 @@ void setup() {
       if (energiaOn) {
         energiaStartTime = millis();
         initialDelayActive = true;
-        servo.write(180); // Abre o servo imediatamente
+        servo.write(180);
         Serial.println("Energia ON: Servo aberto por 30 segundos.");
         digitalWrite(Led_verde, LOW);
         digitalWrite(Led_vermelho, HIGH);

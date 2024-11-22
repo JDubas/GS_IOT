@@ -57,7 +57,33 @@ Criar um sistema IoT que:
 
 - DashBoard no Thinger.io
   
-![image](https://github.com/user-attachments/assets/09b35f5a-fe17-47af-93df-fa1a1f0b1c50)
+![image](https://github.com/user-attachments/assets/37e8a567-3a9f-40b0-ad74-5c6f9a7c48d7)
+
+
+
+- Exemplo Janela fechada, Ar ligado
+
+![image](https://github.com/user-attachments/assets/f33b039a-5d3b-4e1d-8211-e52f9fc33052)
+
+- Exemplo Janela Aberta, Ar desligado
+
+![image](https://github.com/user-attachments/assets/3a3215e3-6d5e-470d-80e0-fbfaca97cf3f)
+
+
+- Conexão fechada com o Thinger.io
+
+![image](https://github.com/user-attachments/assets/bd917b49-cedf-4d6c-b3de-50d7f1ce7e9a)
+
+
+- Itens enviados do Thinger.io para ESP32
+
+  ![image](https://github.com/user-attachments/assets/7ade6986-a6db-4085-9ae9-325721fbb0d5)
+
+- Itens enviados do ESP32 para Thinger.io
+
+  ![image](https://github.com/user-attachments/assets/fa9c4389-2140-4430-a815-e3a62f981f0b)
+
+
 
 
 ## Código

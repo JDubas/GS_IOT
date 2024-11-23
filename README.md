@@ -83,6 +83,9 @@ Criar um sistema IoT que:
 
   ![image](https://github.com/user-attachments/assets/fa9c4389-2140-4430-a815-e3a62f981f0b)
 
+- Bibliotecas
+
+ ![image](https://github.com/user-attachments/assets/59c31f78-59fd-485d-b4f1-c11108dbf043)
 
 
 
